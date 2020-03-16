@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/michael/PycharmProjects/TensorCup/model/cnmodel.ckpt"
+all_model_checkpoint_paths: "/Users/michael/PycharmProjects/TensorCup/model/cnmodel.ckpt"
